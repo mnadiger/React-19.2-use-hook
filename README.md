@@ -21,3 +21,6 @@ Major advantages of React’s new use() approach:
 React is moving toward an async-first rendering model, and the new use() hook is at the center of this shift. If your mental model of React was built around effects and client-side fetching, React 19.2 is an excellent time to revisit those patterns.
 
 Note: This is just an example of a simple data fetching using use(), but use() is actually not intended for just data fetching, there are many more use cases of this new feature, And specially when you want implement polling, handle error boundries, and retries you still may use the old approach.
+
+
+<img width="800" height="800" alt="image" src="https://github.com/user-attachments/assets/88f940e8-712b-43e5-be5c-75296e052b6a" />
